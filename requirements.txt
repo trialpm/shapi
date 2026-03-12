@@ -4,3 +4,4 @@ aiohttp
 colorama
 beautifulsoup4
 lxml
+gunicorn
